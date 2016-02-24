@@ -1,4 +1,4 @@
 # Custom-Achievements
-From Now On You Will be able to mange achivments
+From Now On You Will be able to mange achievements
 
-plugin is Under Construction Please Wait
+# Plugin is Under Construction Please Wait
